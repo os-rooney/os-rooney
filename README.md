@@ -1,14 +1,15 @@
-### Hi there, I'm Rooney [website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### Hi there, I'm Rooney 👋
 
 ## About me
 
+- 🇩🇪 I'm web developer and live in Bonn, germany
+- 🧑‍💼 I work as IT manager at [Schiller Language School] in Bonn, Germany 
+- 🏫 Certified webmaster (ILS), Hamburg
 - 📚 I’m currently learning React 
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2021 Goals: Learn npm, React.js, Redux, 
 - 💻 currently I am working on this project: [Check it out][travel]!
+- 🌐 Check out my [website] 
 - ⚡ Fun fact: I like biking and cooking
 
 ### Projects:
@@ -38,10 +39,11 @@
 <br />
 
 
-[website]: https://ronios.com
-[travel]: http://travel.ronios.com
+[website]: https://www.ronios.de
+[travel]: http://www.travel.ronios.de
 [instagram]: https://www.instagram.com/rooney_os
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[Schiller Language School]: https://www.schiller-langauge-school.com
