@@ -2,8 +2,8 @@
 
 ## About me
 
-- 🇩🇪 I'm web developer and live in Bonn, germany
-- 🧑‍💼 I work as IT manager at [Schiller Language School] in Bonn, Germany 
+- 🇩🇪 I'm web developer and live in Bonn, Germany
+- 🚀 I work as IT manager at [Schiller Language School] in Bonn, Germany 
 - 🏫 Certified webmaster (ILS), Hamburg
 - 📚 I’m currently learning React 
 - 👯 I’m looking to collaborate with other web developers
@@ -46,4 +46,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[Schiller Language School]: https://www.schiller-langauge-school.com
+[Schiller Language School]: https://www.schiller-language-school.com
