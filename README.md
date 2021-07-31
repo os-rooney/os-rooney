@@ -8,7 +8,7 @@
 - I’m currently learning React 📚
 - I’m looking to collaborate with other web developers 👯
 - 2021 Goals: Learn npm, React.js, Redux and MongoDB 🥅
-- currently I am working on this project: [Check it out][travel]! 💻
+- currently I am working on this project: [Check it out](https://github.com/os-rooney/travel_tips)! 💻
 - Check out my [website] 🌐 
 - Fun fact: I like biking and cooking ⚡
 
