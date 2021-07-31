@@ -1,24 +1,24 @@
-### Hi there, I'm Rooney 👋
+# Hi there, I'm Rooney 👋
 
 ## About me
 
-- 🇩🇪 I'm web developer and live in Bonn, Germany
-- :briefcase: I work as IT manager at [Schiller Language School] in Bonn, Germany 
-- 🏫 Certified Webmaster ([ILS]) in Hamburg, Germany
-- 📚 I’m currently learning React 
-- 👯 I’m looking to collaborate with other web developers
-- 🥅 2021 Goals: Learn npm, React.js, Redux and MongoDB
-- 💻 currently I am working on this project: [Check it out][travel]!
-- 🌐 Check out my [website] 
-- ⚡ Fun fact: I like biking and cooking
+- I'm web developer and live in Bonn, Germany 🇩🇪
+- I work as IT manager at [Schiller Language School] in Bonn, Germany 💼
+- Certified Webmaster ([ILS]) in Hamburg, Germany 🏫
+- I’m currently learning React 📚
+- I’m looking to collaborate with other web developers 👯
+- 2021 Goals: Learn npm, React.js, Redux and MongoDB 🥅
+- currently I am working on this project: [Check it out][travel]! 💻
+- Check out my [website] 🌐 
+- Fun fact: I like biking and cooking ⚡
 
 ### Projects:
-- 🌍 [Travel App]
+-  Travel App 🌍, check out the [source coude], or see it [live](http://www.travel.ronios.de)
 
 ### Connect with me:
 
-[<img align="left" alt="ronios.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rooney Os. | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ronios.com" width="22px" src="https://img.icons8.com/color/domain" />][website]
+[<img align="left" alt="Rooney Os. | Instagram" width="22px" src="https://img.icons8.com/color/instagram-new" />][instagram]
 
 <br />
 
@@ -43,3 +43,4 @@
 [instagram]: https://www.instagram.com/rooney_os
 [Schiller Language School]: https://www.schiller-language-school.com
 [ILS]: https://www.ils.de/fernkurse/web-master/
+[source coude]: https://github.com/os-rooney/travel_tips
