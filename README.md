@@ -12,7 +12,8 @@
 - Fun facts: I like biking and cooking ⚡
 
 ### Projects:
--  Travel App 🌍, check out the [source coude], or see it [live](http://www.travel.ronios.de)
+-  Travel Tips 🌍, check out the [source coude travel], or see it [live](http://www.travel.ronios.de)
+-  Covid-19 Tracker, check out the [source coude covid], or see it [live](http://www.covid.ronios.de)
 
 ### Connect with me:
 
@@ -41,4 +42,5 @@
 [instagram]: https://www.instagram.com/rooney_os
 [Schiller Language School]: https://www.schiller-language-school.com
 [ILS]: https://www.ils.de/fernkurse/web-master/
-[source coude]: https://github.com/os-rooney/travel_tips
+[source coude travel]: https://github.com/os-rooney/travel_tips
+[source coude covid]: https://github.com/os-rooney/covid19Tracker
