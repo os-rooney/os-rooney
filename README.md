@@ -5,9 +5,8 @@
 - I'm a web developer and I live in Bonn, Germany 🇩🇪
 - I work as IT manager at [Schiller Language School] in Bonn, Germany 💼
 - Certified Web-Master ([ILS]) in Hamburg, Germany 🏫
-- I’m currently learning Symfony 5 📚
+- I’m currently learning Java 📚
 - I’m looking to collaborate with other web developers 👯
-- currently I am working on this project: [Check it out](https://github.com/os-rooney/travel_tips)! 💻
 - Check out my [website] 🌐 
 - Fun facts: I like biking and cooking ⚡
 
