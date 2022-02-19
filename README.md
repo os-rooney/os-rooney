@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CodeCademyJava](https://github.com/os-rooney/CodeCademyJava)
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://ronios.de](https://ronios.de)
 
