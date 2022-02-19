@@ -68,6 +68,4 @@
 
 <p><img style="width:20rem;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=os-rooney&" alt="os-rooney" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=os-rooney&label=Profile%20views&color=0e75b6&style=flat" alt="os-rooney" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=os-rooney" alt="os-rooney" /></a> </p>
