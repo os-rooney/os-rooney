@@ -60,12 +60,11 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=os-rooney&theme=onedark)](https://github.com/os-rooney/github-profile-trophy)
   
 
 <p><img style="width:18rem;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=os-rooney&show_icons=true&locale=en&layout=compact" alt="os-rooney" /></p>
 
-<p>&nbsp;<img style="width:20rem;" align="center" src="https://github-readme-stats.vercel.app/api?username=os-rooney&show_icons=true&locale=en" alt="os-rooney" /></p>
+<p><img style="width:20rem;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=os-rooney" alt="os-rooney" /></p>
 
-<p><img style="width:20rem;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=os-rooney&" alt="os-rooney" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=os-rooney" alt="os-rooney" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=os-rooney" alt="os-rooney" /></a> </p>-->
