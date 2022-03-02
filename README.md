@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://ronios.de](https://ronios.de)
+- 👨‍💻 My website: [https://ronios.de](https://ronios.de)
 
 - 💬 Ask me about **PHP, JavaScript, HTML, CSS, MySQL**
 
