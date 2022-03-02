@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rooney! <img width="35rem" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"></h1>
 <div align="center">
-  <h3>A passionate web developer from Germany</h3>
+  <h3>A passionate web developer from Bonn, Germany</h3>
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="width: 5rem;">
 </div>
 
