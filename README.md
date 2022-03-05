@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently learning Java and working on [CodeCademyJava](https://github.com/os-rooney/CodeCademyJava)
 
-- 🌱 I’m currently learning **Java and Spring Boot**
-
 - 👨‍💻 My website: [https://ronios.de](https://ronios.de)
 
 - 💬 Ask me about **PHP, JavaScript, HTML, CSS, MySQL**
