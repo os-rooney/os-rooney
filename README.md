@@ -52,7 +52,6 @@
 <h5 align="left">Other:</h5>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=os-rooney&theme=onedark)](https://github.com/os-rooney/github-profile-trophy) -->
