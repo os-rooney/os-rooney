@@ -59,6 +59,6 @@
 
 <p><img style="width:18rem;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=os-rooney&show_icons=true&locale=en&layout=compact" alt="os-rooney" /></p>
 
-<p><img style="width:20rem;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=os-rooney" alt="os-rooney" /></p>
+<!--<p><img style="width:20rem;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=os-rooney" alt="os-rooney" /></p> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=os-rooney" alt="os-rooney" /></a> </p>-->
