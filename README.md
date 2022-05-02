@@ -8,8 +8,6 @@
 
 - 👨‍💻 My website: [https://ronios.de](https://ronios.de)
 
-- 💬 Ask me about **PHP, JavaScript, HTML, CSS, MySQL**
-
 - 📫 How to reach me **dev@ronios.de**
 
 <h3 align="left">Connect with me:</h3>
