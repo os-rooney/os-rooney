@@ -3,7 +3,6 @@
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="width: 5rem;">
 </div>
 - 👨‍💻 My website: [https://ronios.de](https://ronios.de)
-- 📫 How to reach me **dev@ronios.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
