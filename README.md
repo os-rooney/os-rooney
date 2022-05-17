@@ -3,9 +3,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/rooney-h-osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rooney-h-osman" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="width: 5rem;">
-</div>
 <!--
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left">
@@ -34,6 +31,10 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-  
+  -->
 
 <p><img style="width:18rem;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=os-rooney&show_icons=true&locale=en&layout=compact" alt="os-rooney" /></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="width: 7rem;">
+</div>
