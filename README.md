@@ -33,8 +33,6 @@
 </p>
   -->
 
-<p><img style="width:18rem;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=os-rooney&show_icons=true&locale=en&layout=compact" alt="os-rooney" /></p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="width: 7rem;">
 </div>
